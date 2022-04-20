@@ -8,7 +8,7 @@ Basic working GB file for testing purposes√
 
 可运行的测试用GB文件√
 ## Screenshot～截图
-[!test.png](img/test.png)
+![test.png](img/test.png)
 ## Characters～自機紹介
 |Features<br/>特性|Hakurei Reimu<br/>博麗霊夢|Kirisame Marisa<br/>霧雨魔理沙|
 |--------|-------------|---------------|
