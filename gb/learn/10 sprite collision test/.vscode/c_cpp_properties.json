@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../../resources/gbdk-win/include/**"
+            ]
+        }
+    ],
+    "version": 4
+}

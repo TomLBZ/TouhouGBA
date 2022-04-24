@@ -1,14 +1,39 @@
 # TouhouGBA～東方寄必诶
+
 ## What is this?～这是啥？
-This is a place where I attempt to learn making GBA games and ultimately create a Touhou GBA fangame.
+This is a place where I attempt to learn making GB and GBA games and ultimately create a Touhou GBA fangame.
 
-以制作东方同人游戏为目标尝试学习GBA游戏开发的代码。
-## Status～状态
-Basic working GB file for testing purposes√
+以制作东方同人游戏为目标尝试学习 GB 和 GBA 游戏开发的代码。
 
-可运行的测试用GB文件√
+## Contents～内容
+|Directory<br/>目录|Purpose<br/>目的|Status<br/>状态|
+|-------|-------|-------|
+|gb/game|Gameboy ROM<br/>Gameboy 游戏|Not started<br/>未开始|
+|gb/learn|Learn GB development<br/>学习 Gameboy 开发的代码|Testing<br/>测试中|
+|gb/resources|Common recources including libraries and emulators<br/>库与模拟器等常用资源|Included<br/>已添加|
+|gba/game|Gameboy Advance ROM<br/>GBA 游戏|Not Started<br/>未开始|
+|gba/learn|Learn GBA development<br/>学习 GBA 开发的代码|Not started<br/>未开始|
+|img|screenshots<br/>截图|*Unimportant*<br/>*不重要*|
+
+## Progress～进度
+- GB (Learning)<br/>Gameboy 学习
+  - Hello World √<br/>初始 √
+  - Sprite Test √<br/>贴图测试 √
+  - Moving Test √<br/>移动测试 √
+  - Background Test √<br/>背景测试 √
+  - Sound Test √<br/>声音测试 √
+  - Window Layout Test √<br/>窗体测试 √
+  - Noise Test √<br/>噪声测试 √
+  - Jumping Test √<br/>跳跃测试 √
+  - Metasprite Test √<br/>复合贴图测试 √
+  - Sprite Collision Test √<br/>贴图碰撞测试 √
+  - To Be Continued...<br/>少女折寿中...
+- GB (Game)<br/>Gameboy 游戏
+- GBA (Learning)<br/>GBA 学习
+- GBA (Game)<br/>GBA 游戏
 ## Screenshot～截图
 ![test.png](img/test.png)
+
 ## Characters～自機紹介
 |Features<br/>特性|Hakurei Reimu<br/>博麗霊夢|Kirisame Marisa<br/>霧雨魔理沙|
 |--------|-------------|---------------|
