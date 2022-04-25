@@ -17,22 +17,24 @@ This is a place where I attempt to learn making GB and GBA games and ultimately 
 
 ## Progress～进度
 - GB (Learning)<br/>Gameboy 学习
-  - Hello World √<br/>初始 √
-  - Sprite Test √<br/>贴图测试 √
-  - Moving Test √<br/>移动测试 √
-  - Background Test √<br/>背景测试 √
-  - Sound Test √<br/>声音测试 √
-  - Window Layout Test √<br/>窗体测试 √
-  - Noise Test √<br/>噪声测试 √
-  - Jumping Test √<br/>跳跃测试 √
-  - Metasprite Test √<br/>复合贴图测试 √
-  - Sprite Collision Test √<br/>贴图碰撞测试 √
-  - Background Collision Test √<br/>背景碰撞测试 √
+  1. Hello World √<br/>初始 √
+  2. Sprite Test √<br/>贴图测试 √
+  3. Moving Test √<br/>移动测试 √
+  4. Background Test √<br/>背景测试 √
+  5. Sound Test √<br/>声音测试 √
+  6. Window Layout Test √<br/>窗体测试 √
+  7. Noise Test √<br/>噪声测试 √
+  8. Jumping Test √<br/>跳跃测试 √
+  9. Metasprite Test √<br/>复合贴图测试 √
+  10. Sprite Collision Test √<br/>贴图碰撞测试 √
+  11. Background Collision Test √<br/>背景碰撞测试 √
+  12. Splashscreen Test √<br/>启动界面测试 √
   - To Be Continued...<br/>少女折寿中...
 - GB (Game)<br/>Gameboy 游戏
 - GBA (Learning)<br/>GBA 学习
 - GBA (Game)<br/>GBA 游戏
 ## Screenshot～截图
+![splash.png](img/splash.png)
 ![test.png](img/test.png)
 
 ## Characters～自機紹介
