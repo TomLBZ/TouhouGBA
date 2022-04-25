@@ -27,6 +27,7 @@ This is a place where I attempt to learn making GB and GBA games and ultimately 
   - Jumping Test √<br/>跳跃测试 √
   - Metasprite Test √<br/>复合贴图测试 √
   - Sprite Collision Test √<br/>贴图碰撞测试 √
+  - Background Collision Test √<br/>背景碰撞测试 √
   - To Be Continued...<br/>少女折寿中...
 - GB (Game)<br/>Gameboy 游戏
 - GBA (Learning)<br/>GBA 学习
