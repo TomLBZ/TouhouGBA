@@ -29,6 +29,7 @@ This is a place where I attempt to learn making GB and GBA games and ultimately 
   10. Sprite Collision Test √<br/>贴图碰撞测试 √
   11. Background Collision Test √<br/>背景碰撞测试 √
   12. Splashscreen Test √<br/>启动界面测试 √
+  13. Fade Effect Test √<br/>淡入淡出测试 √
   - To Be Continued...<br/>少女折寿中...
 - GB (Game)<br/>Gameboy 游戏
 - GBA (Learning)<br/>GBA 学习
