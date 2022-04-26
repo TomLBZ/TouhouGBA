@@ -44,6 +44,7 @@ This is a place where I attempt to learn making GB and GBA games and ultimately 
 <img src="img/test.png"><br>
 <b><i>Scene test</i></b><br>
 </p>
+
 ## Characters～自機紹介
 |Features<br/>特性|Hakurei Reimu<br/>博麗霊夢|Kirisame Marisa<br/>霧雨魔理沙|
 |--------|-------------|---------------|
