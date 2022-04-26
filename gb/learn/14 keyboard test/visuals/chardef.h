@@ -1,0 +1,67 @@
+#if !defined(CHARDEF_MACROS)
+#define CHARDEF_MACROS
+
+#define C__     0x00u
+#define C_1     0x01u
+#define C_2     0x02u
+#define C_3     0x03u
+#define C_4     0x04u
+#define C_5     0x05u
+#define C_6     0x06u
+#define C_7     0x07u
+#define C_8     0x08u
+#define C_9     0x09u
+#define C_0     0x0Au
+#define C_A     0x0Bu
+#define C_B     0x0Cu
+#define C_C     0x0Du
+#define C_D     0x0Eu
+#define C_E     0x0Fu
+#define C_F     0x10u
+#define C_G     0x11u
+#define C_H     0x12u
+#define C_I     0x13u
+#define C_J     0x14u
+#define C_K     0x15u
+#define C_L     0x16u
+#define C_M     0x17u
+#define C_N     0x18u
+#define C_O     0x19u
+#define C_P     0x1Au
+#define C_Q     0x1Bu
+#define C_R     0x1Cu
+#define C_S     0x1Du
+#define C_T     0x1Eu
+#define C_U     0x1Fu
+#define C_V     0x20u
+#define C_W     0x21u
+#define C_X     0x22u
+#define C_Y     0x23u
+#define C_Z     0x24u
+#define C_TOU   0x25u
+#define C_HOU   0x26u
+#define C_KOU   0x27u
+#define C_MA    0x28u
+#define C_KYOU  0x29u
+#define C_JI    0x2Au
+#define C_BI    0x2Bu
+#define C_EI    0x2Cu
+#define C_UP    0x2Du
+#define C_DN    0x2Eu
+#define C_RT    0x2Fu
+#define C_LF    0x30u
+#define C_RTN   0x31u
+#define C_LB    0x32u
+#define C_RB    0x33u
+#define C_CLN   0x34u
+#define C_DSH   0x35u
+
+#define C_NUM_OFFSET    1u
+#define C_LTR_OFFSET    11u
+#define C_HAN_OFFSET    37u
+#define C_ARR_OFFSET    45u
+#define C_RTN_OFFSET    49u
+#define C_BRK_OFFSET    50u
+#define C_MRK_OFFSET    52u
+
+#endif // CHARDEF_MACROS

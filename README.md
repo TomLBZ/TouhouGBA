@@ -30,14 +30,20 @@ This is a place where I attempt to learn making GB and GBA games and ultimately 
   11. Background Collision Test √<br/>背景碰撞测试 √
   12. Splashscreen Test √<br/>启动界面测试 √
   13. Fade Effect Test √<br/>淡入淡出测试 √
+  14. Keyboard Test √<br/>键盘测试 √
   - To Be Continued...<br/>少女折寿中...
 - GB (Game)<br/>Gameboy 游戏
 - GBA (Learning)<br/>GBA 学习
 - GBA (Game)<br/>GBA 游戏
 ## Screenshot～截图
-![splash.png](img/splash.png)
-![test.png](img/test.png)
-
+<p align="center">
+<img src="img/splash.png"><br>
+<b><i>Splash screen</i></b><br>
+<img src="img/keyboard.png"><br>
+<b><i>In-game keyboard input for user name</i></b><br>
+<img src="img/test.png"><br>
+<b><i>Scene test</i></b><br>
+</p>
 ## Characters～自機紹介
 |Features<br/>特性|Hakurei Reimu<br/>博麗霊夢|Kirisame Marisa<br/>霧雨魔理沙|
 |--------|-------------|---------------|
